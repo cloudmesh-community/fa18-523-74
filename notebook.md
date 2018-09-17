@@ -7,6 +7,6 @@
 + attended lecture
 + start working on summary
 
-09/14/2018 - 09/21/2018
+09/14/2018 - 09/20/2018
 + attended lecture
 + working on summary
