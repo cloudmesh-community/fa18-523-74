@@ -14,3 +14,7 @@
 09/21/2018 - 09/27/2018
 + attended lecture
 + working on summary
+
+09/28/2018 - 10/04/2018
++ attended lecture
++ working on summary
