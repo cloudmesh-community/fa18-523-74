@@ -6,7 +6,7 @@ owner:
   hid: "fa-523-74"
   community: "e534"
 
-Technologies
+Technologies:
      - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
      - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
      - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
