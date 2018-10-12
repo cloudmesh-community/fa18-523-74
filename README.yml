@@ -1,24 +1,20 @@
-
 ---
 owner:
   firstname: "Yeyi"
   lastname: "Ma"
-  hid: "fa-523-74"
+  hid: "fa18-523-74"
   community: "e534"
-
-Technologies:
-     - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
-     - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
-     - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
-     - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
-     
-Paper:
-  title: " How big data related to people privacy"
-  url: TAB
-  group: TAB
-
+technologies:
+  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
+  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
+  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
+  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
+paper:
+  - title: "How big data related to people privacy?"
+    url: TAB
+    group: TAB
 project:
-  title: "How big data related to education"
-  url: TAB
-  group: Fa18-523-73
-  code: TAB
+  - title: "How big data related to education?"
+    url: TAB
+    group: fa18-523-73
+    code: TAB
