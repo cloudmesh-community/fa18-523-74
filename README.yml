@@ -10,11 +10,13 @@ technologies:
   - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
   - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
 paper:
-  - title: "How big data related to people privacy?"
-    url: TAB
+  - Keyword: TAB
+    title: "How big data related to people privacy"
+    url: https://github.com/cloudmesh-community/fa18-523-74/blob/master/paper/paper.md
     group: TAB
 project:
-  - title: "How big data related to education?"
+  - Keyword: TAB
+    title: "How big data related to education"
     url: TAB
     group: fa18-523-73
     code: TAB
