@@ -22,3 +22,11 @@
 10/05/2018 - 10/11/2018
 + attended lecture
 + working on summary
+
+10/12/2018 - 10/18/2018
++ attended lecture
++ working on summary and final project
+
+10/19/2018 - 10/25/2018
++ attended lecture
++ working on summary and final project
