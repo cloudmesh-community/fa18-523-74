@@ -17,6 +17,6 @@ paper:
 project:
   - Keyword: TAB
     title: "How big data related to education"
-    url: TAB
+    url: https://github.com/cloudmesh-community/fa18-523-74/blob/master/project-report/report.md
     group: fa18-523-73
     code: TAB
