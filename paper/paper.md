@@ -1,5 +1,5 @@
 
-### Big Data and Privacy
+#### Big Data and Privacy
 Yeyi Ma | Email: yeyima@umail.iu.edu | Hid: Fa18-523-74
 
 ### Abstract
