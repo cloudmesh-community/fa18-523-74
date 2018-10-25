@@ -30,3 +30,7 @@
 10/19/2018 - 10/25/2018
 + attended lecture
 + working on summary and final project
+
+10/26/2018 - 11/01/2018
++ attended lecture
++ working on summary and final project
