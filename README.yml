@@ -4,6 +4,7 @@ owner:
   lastname: "Ma"
   hid: "fa18-523-74"
   community: "e534"
+  semester: fa18
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
@@ -18,5 +19,5 @@ project:
   - keyword: TBD
     title: "How big data related to education"
     url: https://github.com/cloudmesh-community/fa18-523-74/blob/master/project-report/report.md
-    group: fa18-523-73  and  fa18-523-74
+    group: fa18-523-73 fa18-523-74
     code: TBD
