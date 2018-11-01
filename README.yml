@@ -5,10 +5,10 @@ owner:
   hid: "fa18-523-74"
   community: "e534"
 technologies:
-  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
-  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
-  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
-  - URL:https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
+  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
+  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
+  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
+  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
 paper:
   - Keyword: TAB
     title: "Big data and privacy"
