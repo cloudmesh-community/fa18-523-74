@@ -8,7 +8,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
-  - ur: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
 paper:
   - keyword: TBD
     title: "Big data and privacy"
