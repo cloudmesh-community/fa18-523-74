@@ -5,18 +5,18 @@ owner:
   hid: "fa18-523-74"
   community: "e534"
 technologies:
-  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
-  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
-  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
-  - URL: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openjpa.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/redis.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rabbitmq.md
+  - ur: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/globus-online-gridftp.md
 paper:
-  - Keyword: TAB
+  - keyword: TBD
     title: "Big data and privacy"
     url: https://github.com/cloudmesh-community/fa18-523-74/blob/master/paper/paper.md
-    group: TAB
+    group: TBD
 project:
-  - Keyword: TAB
+  - keyword: TBD
     title: "How big data related to education"
     url: https://github.com/cloudmesh-community/fa18-523-74/blob/master/project-report/report.md
     group: fa18-523-73  and  fa18-523-74
-    code: TAB
+    code: TBD
