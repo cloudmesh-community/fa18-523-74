@@ -16,6 +16,7 @@ a major threat to peoples entitlement to confidential data by design. As such,
 it is necessary that big data is regulated.  
 
 ## Introduction
+
 Big data refers to the study and the application of complex data sets in
 application software and hardware. Big data is associated with certain qualities
 of data such as variety, velocity, volume, veracity, and value. The computer and
@@ -67,6 +68,7 @@ However, this comes at the cost of giving up liberties enshrined in the
 constitutions of most countries that have a Bill of Rights. 
 
 ### Architecture
+
 Big data architecture is not new in the 21st century. Database management
 systems were popular in the 1990s and were offered by a few big companies. A
 company such as Wintercorp became famous for issuing intuitive big data
