@@ -2,6 +2,8 @@
 
 Yeyi Ma | Email: yeyima@umail.iu.edu | Hid: fa18-523-74
 
+---
+
 ### Abstract
 
 This paper explores big data as a smart technological aggregate of database
