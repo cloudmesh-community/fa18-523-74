@@ -86,6 +86,96 @@ The application layer helps present the analyzed data to the under-users. An exa
 
 In conclusion, the architecture represents a key part of the big data. For that reason, it is crucial for an educational institution to try and create a unified information architecture, to ensure it leverages all types of data. Moreover, a well-designed architecture promotes a unified vision for information management and analytics. Therefore, it is important to get a better understanding of the role of the implementation of the big data, which would provide a better context for deriving requirements for architecture. 
 
+## Implementation
+
+### Factors to Consider Before Implementing the Big Data
+
+The big data has become a game changer in shaping the future of education. However, certain factors need to be considered before applying the big data project.
+
+#### 1.	Understanding Industry Point-of-View on Big Data 
+The education institutions needs first to assess the capabilities and trends to sidestep mistakes made in other sectors, particularly in the business world. For instance, it is advisable that before an institution or organization implement the big data to first study reports from well-regarded publications such as IDC and Forrester's.  
+
+#### 2.	Developing a Proof of Concept (PoC) 
+It is helpful first to create a business case that showcases all the values and the costs associated with the implementations of the big data.
+
+#### 3.	Understanding the Current Tools and Technology 
+After the institution approves of continuing with the implementation of the big data, the next step entails analyzing the available tools and technology that can help meet architectural guidelines requirements.  
+
+#### 4.	Developing the Measures of Successful Big Data 
+It is important to have a target that will measure the benefits of the implementation of the big data system.
+
+### Steps of Successful implementation of the Big Data
+
+#### 1.	Identification of the Goals 
+
+Both in business and education world requires one first to determine the purpose of the big data. For instance, in an education set-up, the institutional management needs to clarify whether the big data is to increase the efficiency of the learning process, improve institution’s marketing, or to improve the overall performance of the institution. Therefore, based on the purpose, then it is easy to choose a methodology, hire employees, and select the right sources of data.
+
+#### 2.	Leverage a Proven Big Data Strategy
+
+There exist four prove strategies, which are based on the objective of the big data as well as the availability of the data. 
+
+##### i.	Performance Management  
+This approach involves applying the transactional data such as the client purchase history and their turnover. However, this approach is not suitable for an education set up.
+
+##### ii.	Data Exploration 
+
+This strategy primarily relies on the use of data mining and research to obtain solutions to the various problems an organization might be facing. In the process, the analytic teams can identify new segments of data.
+
+##### iii.	Social Analytics 
+
+Social analytics approach employs the non-transaction data on social media platforms such as Facebook, Twitter, and Instagram. It is an applicable method in an education setting since most of the students use such platforms as their modes of communication.  
+
+##### iv.	Decision Science 
+
+This approach relies on the analysis of non-transactional data such as online discussion forums. Therefore, it utilizes text and sentiment analysis to determine students/customer’s opinions in regards to new services and schemes. 
+
+#### 3.	Identify infrastructural changes 
+
+To meet the requirements of the big data, the institution may need to change some of its infrastructures. For instance, the traditional storage mediums might not facilitate the running of complex algorithms and analysis. It may also involve the reconfiguration of the hardware platform to meet the new computation needs. 
+
+#### 4.	Training of the Staffs
+
+It is crucial that all the staffs working within the institutions are conversant with the big data. Therefore, at the start, it is important to hire outside consulting team to guide on how best to utilize the big data. Moreover, it is essential to hire new strong system programmers who can work in a parallel processing environment and a network communications specialist. 
+
+## Benchmarking
+
+Big data benchmarks are used to evaluate and compare the performance of big data systems and architecture. A successful benchmarking entails five steps: planning, generating data, generate tests, execution, and analysis and evaluation. 
+
+The process provides a realistic and accurate measure of the big data systems and therefore, it can enable one to make efficient decision-making. For instance, a successful big data support education institutions to make decisions for planning system features, tuning system configuration and validate the deployment strategies. The following are the various steps of benchmarking:
+
+### 1.	Planning 
+
+One needs to make a plan on how the big data benchmarking will take place. Therefore, it is important to first come up with the goals of the benchmarking process. For instance, it should be able to generate application-specific workloads and tests such that it’s easier to draw meaningful conclusions. Also, in the planning tests, it is imperative to lay down the methodology to use in the benchmarking process. 
+
+### 2.	Generating Data
+
+There are four properties associated with big data: volume, velocity, variety, and veracity. Therefore, benchmarking should aim to cover those areas, and thus, it is crucial to apply real-world data or generates synthetic data for application-specific workloads. However, in most cases, most real-owners are not willing to share their real-data because of the security issues. Consequently, in big data benchmarks, the consensus is generated synthetic data as inputs of workloads by real data sets.
+
+### 3.	Generating Tests
+
+In big-data benchmarks, one should first identify the typical workload behaviors for an application domain. Besides, it is important to take into considerations the diversity of workloads to cover different types of application domains, and at the same time to generate tests based on the workloads automatically. However, due to complexities involved in big data, it is challenging to develop big data benchmarks that reflect the real workload cases.
+
+### 4.	Execution
+
+The execution stage needs to address various challenges. For instance, the big-data benchmarks need to adapt to different data formats. For example, the text data can be stored in the form of text files, web pages or pdf. The data also needs to be portable to represent different software stacks to provide a fully functional solution. Besides, the execution must reflect the user’s experiences in using benchmarks. 
+
+## Conclusion
+
+From the discussion, it is a crucial time for the education institution to implement big data. Massive quantities of educational data can now be stored, analyzed and shared. For instance, various big-data algorithms can help track individual students in school and as a result keep detailed information about their academic performance, behavior, and educational needs. Moreover, the big-data systems can help improve educational services by assisting the teachers to analyze what students know and what techniques are most useful for each pupil. Furthermore, technologies such as data mining and data analytics can provide fast feedback to students and teachers about their academic performance. 
+
+However, irrespective of the benefits associated with the big data, several challenges need to be addressed. For instance, the massive amounts of data generated by the big-data systems require much larger storage systems. To overcome such a problem, the data specialists need databases that do not use the traditional SQL based queries. The other challenge is in regards to the analysis as data is generated in different structure and size, and the study of the data may consume a lot of time and resources. Moreover, it is challenging reporting the analyzed information since when a large amount of data are involved, the traditional reports become difficult to interpret by human beings. Therefore, it requires useful tools and techniques that can address such challenges. An example includes the analytics software which can provide an in-depth analysis of some education patterns and extract valuable knowledge from them. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
