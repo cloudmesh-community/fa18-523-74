@@ -48,7 +48,7 @@ performance and learning approaches.
 
 ## Forms of Big Data in Education institution
 
-### A.	Administrative Data
+### Administrative Data
 
 These type of data refers to the demographic, behavioral, and achievement data
 collected through schools, government agencies, and their contractors. It is
@@ -60,7 +60,7 @@ scores, a national assessment of educational progress data, and the behavior
 data that is collected by the U.S. Department of Education’s Civil Rights Data
 Collection. 
 
-### B.	Learning Process Data
+### Learning Process Data
 
 They are continuous or near-continuous, fine-grained records, mostly in the form
 of digital interactions of students behaviors to illuminate learning processes.
