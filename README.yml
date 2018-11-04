@@ -14,10 +14,10 @@ paper:
   - keyword: privacy
     title: "Big data and privacy"
     url: https://github.com/cloudmesh-community/fa18-523-74/blob/master/paper/paper.md
-    group: TBD
+    group: None
 project:
   - keyword: education
     title: "Big data in education"
     url: https://github.com/cloudmesh-community/fa18-523-74/blob/master/project-report/report.md
     group: fa18-523-73, fa18-523-74
-    code: TBD
+    code: None
