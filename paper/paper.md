@@ -1,8 +1,12 @@
 # Big Data and Privacy :hand: fa18-523-74
 
-| Yeyi Ma | Email: yeyima@umail.iu.edu | Indiana University Bloomington | Hid:
-fa18-523-74  | github:
-[:cloud:](https://github.com/cloudmesh-community/fa18-523-74/edit/master/paper/paper.md)
+| Yeyi Ma | yeyima@umail.iu.edu | Indiana University Bloomington |
+Hid:fa18-523-74 | github:
+[:cloud:](https://github.com/cloudmesh-community/fa18-523-74/edit/master/paper/paper.md) 
+
+---
+
+Key Word: Privacy
 
 ---
 
