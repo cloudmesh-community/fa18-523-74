@@ -30,6 +30,7 @@ and the emerging technologies and digital channels will offer better acquisition
 and delivery mechanisms. For instance, teachers can mine learning patterns to
 see how students master specific subjects and experimental designs. Therefore,
 this paper analyzes how big data is relevant in the education system.  
+
 ## Introduction
 
 Today, many organizations are collecting, storing, and analyzing massive amounts
@@ -58,6 +59,7 @@ administrative data that can be taken as big data include international test
 scores, a national assessment of educational progress data, and the behavior
 data that is collected by the U.S. Department of Education’s Civil Rights Data
 Collection. 
+
 ### B.	Learning Process Data
 
 They are continuous or near-continuous, fine-grained records, mostly in the form
