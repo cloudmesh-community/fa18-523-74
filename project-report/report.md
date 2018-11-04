@@ -141,7 +141,7 @@ for big data implementation, the procedures are guided by ISO/IEC/IEEE
 following are various requirements that need to be established to implement the
 system successfully. 
 
-### 1.	Prediction
+### Prediction
 
 The first requirement of big data in school is to develop a model that can help
 infer a single aspect of the data. For instance, it can assist detect students
@@ -152,7 +152,7 @@ participation in discussion forums and taking practice tests. Therefore, it is
 important to have a prediction model to forecast and understand student
 educational outcomes such as success on posttests after tutoring.  
 
-### 2.	Clustering
+### Clustering
 
 The second requirement needs one to find data points that can assist in grouping
 the collected information. For instance, one can group the students based on
@@ -160,7 +160,7 @@ their learning difficulties and interaction patterns. For example, in an online
 learning set-up, the analytics can examine the student’s cognitive interview and
 also how they post in the discussion board.  
 
-### 3.	Relationship Mining
+### Relationship Mining
 
 It involves establishing the relationship between variables in a dataset and
 then creating the rules to be used in later stages. For example, it is important
@@ -270,7 +270,7 @@ The big data has become a game changer in shaping the future of education.
 However, certain factors need to be considered before applying the big data
 project. 
 
-#### 1.	Understanding Industry Point-of-View on Big Data 
+#### Understanding Industry Point-of-View on Big Data 
 
 The education institutions needs first to assess the capabilities and trends to
 sidestep mistakes made in other sectors, particularly in the business world. For
@@ -278,25 +278,25 @@ instance, it is advisable that before an institution or organization implement
 the big data to first study reports from well-regarded publications such as IDC
 and Forrester's.   
 
-#### 2.	Developing a Proof of Concept (PoC) 
+#### Developing a Proof of Concept (PoC) 
 
 It is helpful first to create a business case that showcases all the values and
 the costs associated with the implementations of the big data. 
 
-#### 3.	Understanding the Current Tools and Technology 
+#### Understanding the Current Tools and Technology 
 
 After the institution approves of continuing with the implementation of the big
 data, the next step entails analyzing the available tools and technology that
 can help meet architectural guidelines requirements.   
 
-#### 4.	Developing the Measures of Successful Big Data 
+#### Developing the Measures of Successful Big Data 
 
 It is important to have a target that will measure the benefits of the
 implementation of the big data system. 
 
 ### Steps of Successful implementation of the Big Data
 
-#### 1.	Identification of the Goals 
+#### Identification of the Goals 
 
 Both in business and education world requires one first to determine the purpose
 of the big data. For instance, in an education set-up, the institutional
@@ -306,37 +306,37 @@ overall performance of the institution. Therefore, based on the purpose, then it
 is easy to choose a methodology, hire employees, and select the right sources of
 data. 
 
-#### 2.	Leverage a Proven Big Data Strategy
+#### Leverage a Proven Big Data Strategy
 
 There exist four prove strategies, which are based on the objective of the big
 data as well as the availability of the data.  
 
-##### i.	Performance Management
+##### Performance Management
   
 This approach involves applying the transactional data such as the client
 purchase history and their turnover. However, this approach is not suitable for
 an education set up. 
 
-##### ii.	Data Exploration 
+##### Data Exploration 
 
 This strategy primarily relies on the use of data mining and research to obtain
 solutions to the various problems an organization might be facing. In the
 process, the analytic teams can identify new segments of data. 
 
-##### iii.	Social Analytics 
+##### Social Analytics 
 
 Social analytics approach employs the non-transaction data on social media
 platforms such as Facebook, Twitter, and Instagram. It is an applicable method
 in an education setting since most of the students use such platforms as their
 modes of communication.   
 
-##### iv.	Decision Science 
+##### Decision Science 
 
 This approach relies on the analysis of non-transactional data such as online
 discussion forums. Therefore, it utilizes text and sentiment analysis to
 determine students/customer’s opinions in regards to new services and schemes.
   
-#### 3.	Identify infrastructural changes 
+#### Identify infrastructural changes 
 
 To meet the requirements of the big data, the institution may need to change
 some of its infrastructures. For instance, the traditional storage mediums might
@@ -344,7 +344,7 @@ not facilitate the running of complex algorithms and analysis. It may also
 involve the reconfiguration of the hardware platform to meet the new computation
 needs.  
 
-#### 4.	Training of the Staffs
+#### Training of the Staffs
 
 It is crucial that all the staffs working within the institutions are conversant
 with the big data. Therefore, at the start, it is important to hire outside
@@ -365,7 +365,7 @@ instance, a successful big data support education institutions to make decisions
 for planning system features, tuning system configuration and validate the
 deployment strategies. The following are the various steps of benchmarking: 
 
-### 1.	Planning 
+### Planning 
 
 One needs to make a plan on how the big data benchmarking will take place.
 Therefore, it is important to first come up with the goals of the benchmarking
@@ -374,7 +374,7 @@ workloads and tests such that it’s easier to draw meaningful conclusions. Also
 in the planning tests, it is imperative to lay down the methodology to use in
 the benchmarking process.  
 
-### 2.	Generating Data
+### Generating Data
 
 There are four properties associated with big data: volume, velocity, variety,
 and veracity. Therefore, benchmarking should aim to cover those areas, and thus,
@@ -384,7 +384,7 @@ willing to share their real-data because of the security issues. Consequently,
 in big data benchmarks, the consensus is generated synthetic data as inputs of
 workloads by real data sets. 
 
-### 3.	Generating Tests
+### Generating Tests
 
 In big-data benchmarks, one should first identify the typical workload behaviors
 for an application domain. Besides, it is important to take into considerations
@@ -393,7 +393,7 @@ at the same time to generate tests based on the workloads automatically.
 However, due to complexities involved in big data, it is challenging to develop
 big data benchmarks that reflect the real workload cases. 
 
-### 4.	Execution
+### Execution
 
 The execution stage needs to address various challenges. For instance, the
 big-data benchmarks need to adapt to different data formats. For example, the
