@@ -1,5 +1,12 @@
 # Big Data in Education :hand: fa18-523-73 and fa18-523-74
-Tong Wang and Yeyi Ma  |  Hid: fa18-523-73 and fa18-523-74  |  Email: wangton@iu.edu and yeyima@umail.iu.edu
+
+:o: format not followed
+
+| Tong Wang and Yeyi Ma  
+|  Hid: fa18-523-73 and fa18-523-74  
+|  Email: wangton@iu.edu and yeyima@umail.iu.edu
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/blob/master/project-report/report.md)
+
 
 ---
 
