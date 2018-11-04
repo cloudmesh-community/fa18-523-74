@@ -39,3 +39,7 @@
 + attended lecture
 + working on summary and final project
 
+11/09/2018 - 11/15/2018
++ attended lecture
++ working on 2 page summary and final project
+
