@@ -6,7 +6,7 @@ Hid:fa18-523-74 | github:
 
 ---
 
-Key Word: Privacy
+Keyword: Privacy
 
 ---
 
