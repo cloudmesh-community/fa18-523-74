@@ -1,8 +1,10 @@
 # Big Data in Education :hand: fa18-523-73, fa18-523-74
 
-| Tong Wang, Yeyi Ma | wangton@iu.edu, yeyima@umail.iu.edu | Indiana University
-Bloomington | hid:fa18-523-73, fa18-523-74 | github:
-[:cloud:](https://github.com/cloudmesh-community/fa18-523-58/blob/master/project-report/report.md) 
+| Tong Wang, Yeyi Ma
+| wangton@iu.edu, yeyima@umail.iu.edu
+| Indiana University Bloomington
+| hid:fa18-523-73, fa18-523-74
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-58/blob/master/project-report/report.md) 
 
 ---
 
