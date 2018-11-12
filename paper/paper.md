@@ -3,8 +3,8 @@
 
 | Yeyi Ma 
 | yeyima@umail.iu.edu 
-| Indiana University Bloomington |
-Hid:fa18-523-74 
+| Indiana University Bloomington 
+| hid:fa18-523-74 
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-74/edit/master/paper/paper.md) 
 
 :o: not yet reviewd
