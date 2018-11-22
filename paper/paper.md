@@ -1,4 +1,4 @@
-# Big Data and Privacy :hand: fa18-523-74
+# Big Data and Privacy :wave: :exclamation: fa18-523-74
 
 
 | Yeyi Ma 
@@ -7,7 +7,7 @@
 | hid:fa18-523-74 
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-74/edit/master/paper/paper.md) 
 
-:o: not yet reviewd
+:o: please merge abstract into introduction and remove phrases such as in this paper
 
 ---
 
@@ -55,6 +55,7 @@ for every smart device out there.
 ## Academic Theory
 
 ### Requirements
+
 One of the main reasons why big data is growing rapidly is the increase in the
 popularity of devices which fall under the internet-of-things. Therefore,
 gathering the data necessary for processing is relatively easy
@@ -226,6 +227,7 @@ not public utilities since they have a profit agenda meaning that privacy is
 hardly a priority.
 
 ## Conclusions
+
 Big data is replacing the raw information age that was ushered in by the growth
 of the internet as well as internet-based technologies in the late 20th and
 early 21st century. Big data makes use of numerous technologies to ensure that
