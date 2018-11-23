@@ -1,4 +1,4 @@
-# Big Data and Privacy :wave: :exclamation: fa18-523-74
+# Big Data and Privacy :hand: :exclamation: fa18-523-74
 
 
 | Yeyi Ma 
